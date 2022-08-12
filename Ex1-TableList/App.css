@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  border: 3px solid black;
+  width: 1230px;
+  margin: 50px 150px;
+}
+
+.Input {
+  min-height: 200px;
+  background-color: seashell;
+  border: 1px solid black;
+  margin: 10px 10px 50px;
+}
+
+.Input label {
+  font-size: 25px;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+.Input input {
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.input1 {
+  margin-left: 26px;
+}
+
+.input2 {
+  margin-left: 50px;
+}
+
+.Input button {
+  font-size: 25px;
+  color: white;
+  background-color: dodgerblue; 
+  padding: 10px 50px;
+  margin: 30px 470px 20px;
+}
+
+.Input button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+.Table {
+  margin: 10px;
+  background-color: aliceblue;
+}
+
+.Delete-btn {
+  font-size: 20px;
+  color: white;
+  background-color: dodgerblue; 
+  padding: 0px 10px;
+}
+
+.Delete-btn:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
